@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228356877895",
+    "project_id": "whoswho-5cb3e",
+    "storage_bucket": "whoswho-5cb3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228356877895:android:2f066fd0d92796129e4b62",
+        "android_client_info": {
+          "package_name": "com.example.whoswho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD49l-4PNyJ1nIB4F_d168xErqla8ff9yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
