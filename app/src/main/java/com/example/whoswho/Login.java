@@ -27,7 +27,7 @@ public class Login extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        setContentView(R.layout.login_signup_page);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
             // Android 11+ (API 30+)
             getWindow().setDecorFitsSystemWindows(false);
